@@ -1,34 +1,34 @@
-# QuizApp
-A fun and interactive Quiz Game built with HTML, CSS, and JavaScript. Test your knowledge with multiple-choice questions and get instant feedback!
+# 🧠 QuizApp
 
+A **fun and interactive Quiz Game** built using **HTML, CSS, and JavaScript**. Answer multiple-choice questions, get real-time feedback, and track your score — all in a smooth, responsive interface.
 
-🎯 Features
-❓ Multiple-choice questions
+🔗 **Live Demo:** [https://vaibhavibaware.github.io/QuizApp/](https://vaibhavibaware.github.io/QuizApp/)
 
-⏳ Timer for each question (optional)
+---
 
-🏆 Score tracking
+## 🎯 Features
 
-✅ Instant correct/incorrect feedback
+- ❓ **Multiple-choice questions** to test your knowledge
+- ⏳ Optional **timer** for each question
+- 🏆 **Score tracking** throughout the quiz
+- ✅ **Instant feedback** for correct/incorrect answers
+- 🔄 **Restart** the quiz anytime
+- 📱 **Responsive design** for mobile, tablet, and desktop
 
-🔄 Ability to restart the quiz
+---
 
-📱 Responsive design for mobile & desktop
+## 🛠️ Tech Stack
 
-🛠️ Tech Stack
-HTML5
+- **HTML5** – quiz structure and layout
+- **CSS3** – styles and responsive design
+- **JavaScript (ES6)** – quiz logic, interactivity, and feedback
 
-CSS3
+---
 
-JavaScript (ES6)
+## 📁 Project Structure
 
-
-💡 Ideas for Enhancement
-Add categories and difficulty levels
-
-Fetch questions dynamically from an API (like Open Trivia DB)
-
-Store high scores using localStorage
-
-Add animations and sound effects
-
+QuizApp/
+├── index.html # Main page with quiz UI
+├── style.css # Styling for layout and transitions
+├── script.js # Core logic: questions, timer, score
+└── README.md # Project documentation
